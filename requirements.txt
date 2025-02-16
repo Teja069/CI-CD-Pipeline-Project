@@ -1,0 +1,4 @@
+flask           # If you're using Flask for the app
+pytest          # For testing
+requests        # To make HTTP requests
+gunicorn       # For production WSGI server (optional)
